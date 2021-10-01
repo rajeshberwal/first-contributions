@@ -12,6 +12,7 @@
 - [Ismat Mahmood](https://github.com/IsmatMahmood1)
 - [Torge Korff](https://github.com/TorgeKorff)
 - [Sampath Viswanadha](https://github.com/SampathViswanadha)
+- [Rajesh Kumar](https://github.com/rajeshberwal)
 - [Aaron Lowe](https://github.com/CyberFlameGO)
 - [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Sohail Ahmad](https://github.com/ahmadsohail404)
